@@ -1,0 +1,17 @@
+div{
+    border: solid;
+}
+
+.heder{
+display:flex;
+justify-content:space-between ;
+background-color:cyan;
+align-self: "center"
+}
+
+.menu{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(165, 60, 179);
+    align-self: center;
+}
